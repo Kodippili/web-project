@@ -1,0 +1,155 @@
+* {
+	
+	margin:0;
+	padding: 0;
+	outline: none;
+	margin-left: auto; 
+	margin-right: auto;
+	
+	
+}
+body {
+    background-color: #ffffff;
+	background-size: cover;
+	font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif,KandySupplement;
+	color:black;
+	font-size: 15px;
+	font-weight:700;
+
+}
+h1{
+	font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 25px;
+	font-weight:600;
+	color:#FFFFFF;
+    margin-left: 10px;
+}
+h2{
+		-webkit-font-smoothing: antialiased;
+	font-family: "Open Sans", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight:10;
+	color:#FFFFFF;
+	display:block;	
+}
+h3{
+    margin-right:30px;
+}
+
+h4{
+    font-size:60px;
+    color:#00303f;
+}
+
+
+p{
+    margin-left: 10px;
+}
+
+
+header {
+    background-color: #00303f;
+    background-size: cover;
+    background-position: center;
+
+    color: #888;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+
+	}
+
+nav {
+  background-color: hsla(0,0%,0%,0.8);
+  color: #888;
+  display: block;
+  overflow: hidden;
+  width: 100%; 
+  
+ 
+}
+
+  nav ul {
+    margin: 0;
+    padding: 0;
+  }
+
+    nav ul li {
+      display: inline-block;
+      list-style-type: none;
+	  float:left;      
+	  
+    }
+      
+    nav > ul > li > a {
+        color: #aaa;
+        display: block;
+        line-height: 56px;
+        padding: 0 24px;
+        text-decoration: none;
+    }
+
+        nav > ul > li:hover {
+          background-color: rgb( 40, 44, 47 );
+          
+        }
+
+        nav > ul > li:hover > a {
+          color: rgb( 255, 255, 255 );
+        }
+
+        nav > ul > li:hover > a > .caret {
+          border-top-color: rgb( 255, 255, 255 );
+        }
+      
+      
+
+
+  
+#login {
+	background-color: #363231;
+    text-align:right;
+    width: 100%;
+
+}
+#login a{
+	color : white;
+	text-decoration : none;
+}
+#login samp{
+    color : gray;
+    text-decoration : none;
+}
+#login a:hover {
+    color: gray;
+}
+
+#photos{
+    margin: 22px 70px 5px 50px;
+}
+#details{
+    background-color: #cae4db;
+
+}
+#partners{
+    background-color: #00303f;
+
+}
+
+#partners2{
+    background-color: white;
+
+}
+
+#imgp{
+    margin: 0px 50px 0px 50px;
+}
+
+#mg2{
+    margin-right: 20px;
+}
+
+
+
+
+
